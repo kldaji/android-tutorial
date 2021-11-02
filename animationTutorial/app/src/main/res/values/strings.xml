@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnimationTutorial</string>
+    <string name="main_animation1">Animation 1</string>
+    <string name="main_animation2">Animation 2</string>
+    <string name="main_animation2_with_xml">Animation 2 with XML</string>
+    <string name="main_animation3">Animation3</string>
+    <string name="main_animation_with_xml">Animation 3 with XML</string>
+    <string name="main_animation4">Animation 4</string>
+    <string name="main_animation_4_with_xml">Animation 4 with XML</string>
+</resources>

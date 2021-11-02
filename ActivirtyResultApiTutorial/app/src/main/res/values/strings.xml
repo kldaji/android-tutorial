@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivirtyResultApiTutorial</string>
+    <string name="main_gallery">갤러리</string>
+    <string name="main_navigate">Navigate</string>
+    <string name="main_change_text">Change Text</string>
+    <string name="main_activity_result_api_test">Activity Result Api Test</string>
+    <string name="second_back">뒤로가기</string>
+</resources>

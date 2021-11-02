@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699943492125",
+    "project_id": "tutorial-b123e",
+    "storage_bucket": "tutorial-b123e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699943492125:android:34667fe2fcddc98c7104f4",
+        "android_client_info": {
+          "package_name": "com.kldaji.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699943492125-9k64rd2pc3bkuj1nlohcjo8p38rij6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyn8AzRkE7R4vRztzyu99oogaG7LTBOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699943492125-9k64rd2pc3bkuj1nlohcjo8p38rij6im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
